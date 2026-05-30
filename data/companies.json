@@ -1,0 +1,123 @@
+[
+  {
+    "id": "deutsche-bank",
+    "name": "Deutsche Bank",
+    "website": "https://www.db.com",
+    "careersUrl": "https://careers.db.com/",
+    "whyFit": "",
+    "currentFocus": "The bank is visibly investing in AI-driven innovation and technology delivery while also pushing graduate recruiting and structured development programs.",
+    "personalizationAngle": "Lead with measurable, evidence-based stress prevention and psychologically safe high-performance teams. Position yourself as someone who can help translate wellbeing into leadership capability and workforce resilience, not perks.",
+    "hiringStatus": "Yes. Deutsche Bank’s careers site shows 2026 graduate and internship hiring, including sustainability, communications, tax, and transformation/data roles.",
+    "notes": "Sources captured in german_target_companies_research_batch1.md"
+  },
+  {
+    "id": "porsche-consulting",
+    "name": "Porsche Consulting",
+    "website": "https://www.porsche-consulting.com",
+    "careersUrl": "https://www.porsche-consulting.com/en/careers/",
+    "whyFit": "",
+    "currentFocus": "Porsche Consulting is publicly leaning into AI, operations excellence, strategy, and implementation-led consulting. It also continues to highlight onboarding and employer branding activity.",
+    "personalizationAngle": "Reference their “smart implementation” mindset and show that your workshop design is practical, measurable, and useful in transformation settings. Emphasize performance under pressure, not generic wellness.",
+    "hiringStatus": "Yes. Public recruiting posts and careers/news pages show active recruiting activity and broad global hiring signals.",
+    "notes": "Sources captured in german_target_companies_research_batch1.md"
+  },
+  {
+    "id": "obi-group-holding",
+    "name": "OBI Group Holding",
+    "website": "https://www.obi.de",
+    "careersUrl": "https://www.obi.de/karriere/",
+    "whyFit": "",
+    "currentFocus": "OBI continues to invest in people and organisational development leadership and is visibly promoting internal mobility, development programs, and HR/IT transformation topics.",
+    "personalizationAngle": "Position yourself around employee growth systems, leadership enablement, and workshop-led people development in scaling organizations. Connect your thesis work to practical culture-building and development design.",
+    "hiringStatus": "Yes. Current public job listings show active openings, including senior total rewards and HCM/business analyst roles.",
+    "notes": "Sources captured in german_target_companies_research_batch1.md"
+  },
+  {
+    "id": "munich-re",
+    "name": "Munich Re",
+    "website": "https://www.munichre.com",
+    "careersUrl": "https://careers.munichre.com/",
+    "whyFit": "",
+    "currentFocus": "Munich Re is visibly deepening AI and analytics capabilities. At the same time, its ERGO unit is publicly discussing AI-driven restructuring pressure in repetitive functions.",
+    "personalizationAngle": "Frame yourself as someone who can support high-pressure transformation environments through leadership development, stress regulation, and psychologically safe change adoption.",
+    "hiringStatus": "Yes. Munich Re careers show current AI/data hiring and the uploaded list includes multiple senior HR and talent contacts.",
+    "notes": "Sources captured in german_target_companies_research_batch1.md"
+  },
+  {
+    "id": "covestro",
+    "name": "Covestro",
+    "website": "https://www.covestro.com",
+    "careersUrl": "https://www.covestro.com/en/careers",
+    "whyFit": "",
+    "currentFocus": "Covestro is heavily focused on circular economy, operational climate neutrality, and energy-efficiency transformation. It is also investing in HR transparency and AI-enabled HR support.",
+    "personalizationAngle": "Anchor your message in sustainable performance. Show how you can help teams adapt to transformation, reduce strain in demanding industrial environments, and build human-centered change capability.",
+    "hiringStatus": "Likely yes. Covestro publicly references open positions in Germany and proactively publishes salary ranges for all open German roles.",
+    "notes": "Sources captured in german_target_companies_research_batch1.md"
+  },
+  {
+    "id": "kpmg-germany",
+    "name": "KPMG Germany",
+    "website": "https://kpmg.com/de/en/home.html",
+    "careersUrl": "https://kpmg.com/de/en/home/careers.html",
+    "whyFit": "",
+    "currentFocus": "KPMG is publicly positioning around AI, trusted transformation, hiring for AI-related talent, and reskilling/upskilling. Germany-specific contacts also show active recruiting and L&D activity.",
+    "personalizationAngle": "Write to them as someone who brings clinical rigor to leadership, learning, and change. Highlight your ability to run practical workshops and manager coaching in environments where transformation pressure is high.",
+    "hiringStatus": "Yes. Public KPMG job activity and LinkedIn profiles show active recruiting, L&D, and people transformation hiring.",
+    "notes": "Sources captured in german_target_companies_research_batch1.md"
+  },
+  {
+    "id": "siemens",
+    "name": "Siemens",
+    "website": "https://www.siemens.com",
+    "careersUrl": "https://jobs.siemens.com/careers",
+    "whyFit": "",
+    "currentFocus": "Siemens is publicly accelerating industrial AI and discussing skill-based hiring, continuous learning, and global capability building.",
+    "personalizationAngle": "Lead with workshop-based capability building for high-pressure teams, especially around stress, focus, and psychological safety during digital/AI transformation.",
+    "hiringStatus": "Yes. Siemens continues to show broad public hiring signals and large-scale capability demand in Germany and globally.",
+    "notes": "Sources captured in german_target_companies_research_batch1.md"
+  },
+  {
+    "id": "sap",
+    "name": "SAP",
+    "website": "https://www.sap.com",
+    "careersUrl": "https://www.sap.com/about/careers.html",
+    "whyFit": "",
+    "currentFocus": "SAP is deepening AI across HR, recruiting, onboarding, and workforce analytics through SuccessFactors and People Intelligence capabilities.",
+    "personalizationAngle": "Personalize around measurable people insights. Position yourself as someone who understands both human outcomes and HR metrics, especially for development, retention, and leadership capability.",
+    "hiringStatus": "Yes. SAP continues to show Germany hiring signals and active HR-tech innovation tied to SuccessFactors, SmartRecruiters, and People Intelligence.",
+    "notes": "Sources captured in german_target_companies_research_batch1.md"
+  },
+  {
+    "id": "bayer",
+    "name": "Bayer",
+    "website": "https://www.bayer.com",
+    "careersUrl": "https://www.bayer.com/en/career",
+    "whyFit": "",
+    "currentFocus": "Bayer is strongly focused on AI in health, agriculture, and digital innovation, while pushing its “Health for all, hunger for none” mission and future-ready skills agenda.",
+    "personalizationAngle": "Write a message centered on evidence-based wellbeing as business infrastructure for innovation-heavy environments. Connect your clinical background to resilience, prevention, and safe high-performance cultures.",
+    "hiringStatus": "Yes. Bayer careers pages explicitly point to open opportunities across digital, data, innovation, science, and operations.",
+    "notes": "Sources captured in german_target_companies_research_batch1.md"
+  },
+  {
+    "id": "henkel",
+    "name": "Henkel",
+    "website": "https://www.henkel.com",
+    "careersUrl": "https://www.henkel.com/careers",
+    "whyFit": "",
+    "currentFocus": "Henkel is openly framing itself around digital transformation, AI, smart factories, purposeful growth, and sustainability.",
+    "personalizationAngle": "Personalize around supporting people through AI and digital transformation with hands-on learning formats, workshops, and psychologically safe behavior change.",
+    "hiringStatus": "Yes. Henkel careers list current Germany roles, including AI commercial excellence and digital transformation internships as recent examples.",
+    "notes": "Sources captured in german_target_companies_research_batch1.md"
+  },
+  {
+    "id": "adidas",
+    "name": "adidas",
+    "website": "https://www.adidas-group.com",
+    "careersUrl": "https://careers.adidas-group.com/",
+    "whyFit": "",
+    "currentFocus": "adidas continues to hire in Germany and is publicly associated with digital transformation, data/AI capability building, and consumer-focused product innovation.",
+    "personalizationAngle": "Position yourself around sustainable performance, leadership resilience, and workshop-led capability building in high-performance global teams.",
+    "hiringStatus": "Yes. adidas careers shows active Germany openings across people, product, operations, finance, and retail.",
+    "notes": "Sources captured in german_target_companies_research_batch1.md"
+  }
+]

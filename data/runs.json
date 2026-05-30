@@ -1,0 +1,46 @@
+[
+  {
+    "id": "run_20260529_seed",
+    "runDate": "2026-05-29",
+    "status": "Completed",
+    "rolesFound": 5,
+    "qualifiedRoles": 3,
+    "rolesAdded": 3,
+    "publicContacts": 0,
+    "query": "Germany | HR Business Partner | People Partner | People & Culture | wellbeing | visa-friendly | 40k+ salary floor",
+    "notes": "Seed search run that added Delivery Hero and Tesla roles with fit score 70+."
+  },
+  {
+    "id": "run_20260529_batch1",
+    "runDate": "2026-05-29",
+    "status": "Completed",
+    "rolesFound": 12,
+    "qualifiedRoles": 3,
+    "rolesAdded": 3,
+    "publicContacts": 0,
+    "query": "Search now workflow batch 1 | Germany | Berlin-focused People Partner, HRBP, People & Culture, Tech/Product People roles | official company listings only",
+    "notes": "Added three more 70+ fit roles from Delivery Hero official listings: Senior People Partner, Senior Manager People Partner, and Principal People Partner (Tech & Product). Anti-bot protections blocked some full page reads, so role verification relied on official listing snippets and structured job metadata."
+  },
+  {
+    "id": "run_20260530_companylist_import",
+    "runDate": "2026-05-30",
+    "status": "Completed",
+    "rolesFound": 11,
+    "qualifiedRoles": 11,
+    "rolesAdded": 0,
+    "publicContacts": 55,
+    "query": "Uploaded German target company list import and company research batch 1",
+    "notes": "Imported and normalized the uploaded CSV contacts, added public supplemental LinkedIn contacts for Porsche Consulting and KPMG Germany, and created company-level research notes for the 11 unique companies in the file."
+  },
+  {
+    "id": "run_20260530_outreach_personalized_1",
+    "runDate": "2026-05-30",
+    "status": "Completed",
+    "rolesFound": 11,
+    "qualifiedRoles": 11,
+    "rolesAdded": 0,
+    "publicContacts": 55,
+    "query": "Personalized outreach batch 1 for 11 uploaded target companies",
+    "notes": "Created contact-specific cold email and LinkedIn drafts for 55 contacts and prefilled 55 outreach log entries in the portal."
+  }
+]
